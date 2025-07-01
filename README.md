@@ -1,5 +1,9 @@
-**Minimalist todo web app**
-- 
+**Consistent  : Minimalist todo web app**
+
+
+***Motto : One day, drops will make an ocean.*** 
+
+---
 Has 2 sections:
   -  Calender - caleder will show the reminders added in notepad. (60% screen occu)
   -  Notepad - This will be minimalist notespad. (40% screen occu)
