@@ -28,5 +28,6 @@ Example :
 - Whatsapp notification (needs backend)
 - Quote of the day
 - power topics
+- life hacks (food, study, self management, health, relationship)
 
 
