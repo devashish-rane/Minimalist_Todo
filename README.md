@@ -19,3 +19,14 @@ Example :
 - do the laundry
 - make notes of API versionsing @3jun
 - //- this notes will be ignored.
+
+
+-
+
+**Planned**
+- Pomodoro
+- Whatsapp notification (needs backend)
+- Quote of the day
+- power topics
+
+
