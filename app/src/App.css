@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.notepad {
+  flex: 0 0 40%;
+  padding: 1rem;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+}
+
+.calendar-wrapper {
+  flex: 1;
+  padding: 1rem;
+}
+
+.highlight {
+  background: #ffc107 !important;
+  color: #000 !important;
+}

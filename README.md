@@ -5,8 +5,8 @@
 
 ---
 Has 2 sections:
-  -  Calender - caleder will show the reminders added in notepad. (60% screen occu)
-  -  Notepad - This will be minimalist notespad. (40% screen occu)
+  -  Calender - calendar will show the reminders added in notepad. (60% screen occu)
+  -  Notepad - This will be minimalist notepad. (40% screen occu)
 
 Why this is minimalist :
   - We can add notes using using hyphen
@@ -25,8 +25,17 @@ Example :
 - //- this notes will be ignored.
 
 
--
+## Running the app
 
+1. Install dependencies
+   ```bash
+   cd app
+   npm install
+   ```
+2. Start the development server
+   ```bash
+   npm run dev
+   ```
 **Planned**
 - Pomodoro
 - Whatsapp notification (needs backend)
